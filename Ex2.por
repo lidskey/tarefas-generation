@@ -1,6 +1,7 @@
 programa
 {
-	inclua biblioteca Matematica --> mat
+	
+inclua biblioteca Matematica --> mat
 	funcao inicio()
 	{
 		inteiro  vet[10], i, soma
@@ -63,13 +64,7 @@ programa
 
 
 
-/*par = se é diviivel por 2 impar se não é divisivel por 2
- * media é os numeros somados divididos por 10
- * para(i=0; i<=9; i++){ par= vet[10] % 2
-		soma= vet[10] + vet[10] 
-			media =  / 10.0
-			escreva(" A média da soma entre os vetores é: ", media)
- */
+
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
